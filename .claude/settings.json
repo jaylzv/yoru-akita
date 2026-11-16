@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "yoru-akita": {
+      "source": { "source": "github", "repo": "jaylzv/yoru-akita" }
+    }
+  },
+  "enabledPlugins": {
+    "yoru-akita@yoru-akita": true
+  }
+}
