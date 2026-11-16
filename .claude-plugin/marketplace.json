@@ -1,0 +1,5 @@
+{
+  "name": "yoru-akita",
+  "owner": { "name": "jaylzv" },
+  "plugins": [{ "name": "yoru-akita", "source": "./" }]
+}
